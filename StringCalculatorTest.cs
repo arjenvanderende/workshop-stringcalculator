@@ -3,6 +3,7 @@ using NUnit.Framework;
 
 namespace Pyroxene.Kata.StringCalculator
 {
+	[TestFixture]
 	public class StringCalculatorTest
 	{
 		[Test]
